@@ -1,0 +1,41 @@
+[
+    {
+        "name":"iphone",
+        "price":154,
+        "feature":true,
+        "rating": 5,
+        "company":"apple"
+    },
+
+    {
+        "name":"iphone",
+        "price":1154,
+        "feature":true,
+        "rating": 5,
+        "company":"apple"
+    },
+
+    {
+        "name":"iphone",
+        "price":204,
+        "feature":true,
+        "rating": 5,
+        "company":"apple"
+    },
+
+    {
+        "name":"iphone10",
+        "price":154,
+        "feature":true,
+        "rating": 5,
+        "company":"apple"
+    },
+
+    {
+        "name":"iphone",
+        "price":300,
+        "feature":true,
+        "rating": 5,
+        "company":"apple"
+    }
+]
